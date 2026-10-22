@@ -1,6 +1,6 @@
-# OpenCode Desktop
+# OpenCode but better Desktop
 
-The OpenCode Desktop app, built with Electron.
+The OpenCode but better Desktop app, built with Electron.
 
 ## Development
 

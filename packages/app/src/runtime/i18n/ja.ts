@@ -1,5 +1,5 @@
 export const dict = {
-  "desktop.menu.app": "OpenCode",
+  "desktop.menu.app": "OpenCode but better",
   "desktop.menu.file": "ファイル",
   "desktop.menu.edit": "編集",
   "desktop.menu.view": "表示",
@@ -676,7 +676,7 @@ export const dict = {
   "command.project.copyID": "プロジェクト ID をコピー",
   "command.session.copyID": "セッション ID をコピー",
   "server.row.incompatible":
-    "このサーバーでは、このアプリと互換性のない OpenCode {{version}} が実行されています。続行するには OpenCode V2 にアップグレードしてください。",
+    "このサーバーでは、このアプリと互換性のない OpenCode but better {{version}} が実行されています。続行するには OpenCode V2 にアップグレードしてください。",
   "toast.session.copyID.failed.title": "セッション ID をコピーできませんでした",
   "toast.session.copyID.failed.description": "セッション ID のコピー中にエラーが発生しました",
   "toast.project.copyID.failed.title": "プロジェクト ID をコピーできませんでした",
@@ -686,7 +686,7 @@ export const dict = {
   "error.page.action.reload": "再読み込み",
   "session.error.incompatible": "このサーバーバージョンはサポートされていません",
   "session.error.incompatible.description":
-    "{{server}} では、このアプリと互換性のない OpenCode {{version}} が実行されています。続行するには、サーバーを OpenCode V2 にアップグレードしてください。",
+    "{{server}} では、このアプリと互換性のない OpenCode but better {{version}} が実行されています。続行するには、サーバーを OpenCode V2 にアップグレードしてください。",
   "session.background.moveInline": "{{keybind}} を押して実行中の作業をバックグラウンドに移動",
   "settings.general.row.terminalPlacement.title": "ターミナルの配置",
   "settings.general.row.terminalPlacement.description": "セッションでターミナルを開く位置を選択します",
